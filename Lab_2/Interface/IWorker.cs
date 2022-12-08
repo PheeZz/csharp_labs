@@ -1,0 +1,1 @@
+namespace Lab_2;
