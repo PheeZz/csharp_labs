@@ -8,7 +8,9 @@ public class Program
         var persons = GenerateRandomPersons(count: 100);
         var cars = GenerateRandomCars(count: 100);
         var products = GenerateRandomProducts(count: 100);
-
+        // save all console stream to the file
+        using var file = new StreamWriter("output.txt");
+        Console.SetOut(file);
         #region [persons]: born after 2000
         persons
             .ApplyFilter(startDate: new DateTime(2000, 1, 1), endDate: new DateTime(2000, 12, 31))
@@ -93,6 +95,7 @@ public class Program
         #region [products]: average price by category
         Console.WriteLine("------------------------");
         Console.WriteLine("Average price by category:");
+        Console.WriteLine("------------------------");
         products
             .GroupBy(product => product.CategoryId)
             .Select(
@@ -110,12 +113,13 @@ public class Program
                         $"CategoryId: {group.CategoryId}, AveragePrice: {group.AveragePrice:0.00}"
                     )
             );
-        Console.WriteLine("------------------------");
         #endregion
 
         #region [products]: average price by manufactury
         Console.WriteLine("------------------------");
         Console.WriteLine("Average price by manufactury:");
+        Console.WriteLine("------------------------");
+
         products
             .GroupBy(product => product.ManufacturyId)
             .Select(
@@ -133,12 +137,12 @@ public class Program
                         $"ManufacturyId: {group.ManufacturyId}, AveragePrice: {group.AveragePrice:0.00}"
                     )
             );
-        Console.WriteLine("------------------------");
         #endregion
 
         #region [products]: average price by category and manufactury
         Console.WriteLine("------------------------");
         Console.WriteLine("Average price by category and manufactury:");
+        Console.WriteLine("------------------------");
         products
             .GroupBy(product => new { product.CategoryId, product.ManufacturyId })
             .Select(
@@ -157,7 +161,6 @@ public class Program
                         $"CategoryId: {group.CategoryId}, ManufacturyId: {group.ManufacturyId}, AveragePrice: {group.AveragePrice:0.00}"
                     )
             );
-        Console.WriteLine("------------------------");
         #endregion
     }
 

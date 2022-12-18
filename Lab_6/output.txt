@@ -1,0 +1,320 @@
+
+-------------------------------
+Persons born after 2000
+-------------------------------
+Felicita Fahey, born at: 8.12.2004, speaks: Chinese, German, is a Unemployed
+Walter Schmidt, born at: 19.1.2009, speaks: German, is a Unemployed
+Roel Satterfield, born at: 9.5.2016, speaks: French, is a Employee
+Alivia Brekke, born at: 3.3.2004, speaks: French, is a Employee
+Sadie Bahringer, born at: 19.3.2000, speaks: Chinese, Italian, French, is a Student
+Susie Barrows, born at: 3.7.2007, speaks: Spanish, is a Retired
+Lelia Collins, born at: 22.9.2014, speaks: Japanese, German, is a Retired
+Unique Koch, born at: 26.7.2019, speaks: Italian, French, Chinese, is a Employee
+Weston Lindgren, born at: 26.5.2016, speaks: Chinese, is a Retired
+Felipe Huels, born at: 25.8.2010, speaks: Italian, Russian, Italian, is a Unemployed
+Carole Frami, born at: 1.4.2003, speaks: German, is a Employee
+Corrine Mertz, born at: 19.3.2003, speaks: French, Korean, is a Retired
+Claudine King, born at: 22.1.2012, speaks: English, Russian, is a Student
+Brielle Wilkinson, born at: 24.2.2010, speaks: Japanese, Spanish, Italian, is a Unemployed
+Gerda Schiller, born at: 17.6.2018, speaks: German, is a Retired
+
+-------------------------------
+Persons born after 2000 and speaks English
+-------------------------------
+Claudine King, born at: 22.1.2012, speaks: English, Russian, is a Student
+
+-------------------------------
+Cars NEW
+-------------------------------
+Producer: Fiat, Model: S6, Color: Lavender, RegistrationNumber: 349796, Price: 50059, Year: 2020
+Producer: Tesla, Model: AMG_GT_4_Door_Coupe, Color: Eggplant, RegistrationNumber: 491514, Price: 98151, Year: 2021
+Producer: Acura, Model: SLK, Color: Silver, RegistrationNumber: 080103, Price: 30268, Year: 2021
+Producer: Tesla, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_2, Color: Gray, RegistrationNumber: 545892, Price: 28373, Year: 2021
+Producer: Skoda, Model: GLA, Color: Burgundy, RegistrationNumber: 358682, Price: 72329, Year: 2021
+Producer: Peugeot, Model: RS6, Color: Mauve, RegistrationNumber: 161918, Price: 92894, Year: 2021
+Producer: Mazda, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_5, Color: Brown, RegistrationNumber: 089081, Price: 85290, Year: 2021
+Producer: Rolls_Royce, Model: TT, Color: Ginger, RegistrationNumber: 937004, Price: 83558, Year: 2021
+Producer: Mini, Model: S5, Color: Gray, RegistrationNumber: 686679, Price: 13255, Year: 2021
+Producer: Maserati, Model: S, Color: Green, RegistrationNumber: 171137, Price: 63476, Year: 2021
+Producer: Fiat, Model: AMG_GT_4, Color: Magenta, RegistrationNumber: 121665, Price: 17142, Year: 2020
+Producer: Changhe, Model: CLS, Color: Grey, RegistrationNumber: 438737, Price: 65144, Year: 2021
+Producer: Skoda, Model: RS3, Color: Lilac, RegistrationNumber: 242293, Price: 52284, Year: 2020
+Producer: Chery, Model: A8, Color: Navy, RegistrationNumber: 387533, Price: 69685, Year: 2020
+Producer: Skoda, Model: SQ5, Color: Eggplant, RegistrationNumber: 665001, Price: 85573, Year: 2020
+Producer: Ford, Model: S, Color: Gray, RegistrationNumber: 719128, Price: 12771, Year: 2021
+Producer: Ferrari, Model: CLS, Color: Wine, RegistrationNumber: 613145, Price: 73409, Year: 2021
+Producer: Seat, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_5, Color: Tan, RegistrationNumber: 580911, Price: 20826, Year: 2020
+Count of the cars: 18
+
+-------------------------------
+Cars NORMAL
+-------------------------------
+Producer: Lexus, Model: CLA, Color: Crimson, RegistrationNumber: 565877, Price: 12356, Year: 2016
+Producer: Great_Wall, Model: GLC, Color: Taupe, RegistrationNumber: 765980, Price: 10953, Year: 2015
+Producer: Mitsubishi, Model: A8, Color: Pink, RegistrationNumber: 024008, Price: 59162, Year: 2018
+Producer: Infiniti, Model: AMG_GT_63_S_4Matic_Plus_Edition_1, Color: Brown, RegistrationNumber: 510886, Price: 54211, Year: 2016
+Producer: Tesla, Model: S4, Color: Mauve, RegistrationNumber: 366295, Price: 88734, Year: 2018
+Producer: Mercedes, Model: GLB, Color: Lavender, RegistrationNumber: 749688, Price: 75088, Year: 2018
+Producer: Lexus, Model: RSQ3, Color: Violet, RegistrationNumber: 525182, Price: 54434, Year: 2016
+Producer: Chevrolet, Model: SQ5, Color: Teal, RegistrationNumber: 377220, Price: 1826, Year: 2015
+Producer: Mercedes, Model: S3, Color: Magenta, RegistrationNumber: 317855, Price: 18672, Year: 2016
+Producer: Honda, Model: GLA, Color: Peach, RegistrationNumber: 136733, Price: 97200, Year: 2017
+Producer: Ferrari, Model: Q2, Color: Mint, RegistrationNumber: 672693, Price: 44763, Year: 2017
+Producer: Acura, Model: A5, Color: Red, RegistrationNumber: 641059, Price: 37102, Year: 2017
+Producer: Citroen, Model: AMG_GT_S, Color: Mint, RegistrationNumber: 668261, Price: 44974, Year: 2015
+Producer: Porsche, Model: SLK, Color: Maroon, RegistrationNumber: 980051, Price: 57882, Year: 2017
+Producer: Seat, Model: TTS, Color: Azure, RegistrationNumber: 483530, Price: 5231, Year: 2017
+Producer: Ford, Model: AMG_GT, Color: Purple, RegistrationNumber: 225356, Price: 43856, Year: 2015
+Producer: JAC, Model: A3, Color: Chestnut, RegistrationNumber: 700450, Price: 1758, Year: 2017
+Producer: Great_Wall, Model: RS3, Color: Beige, RegistrationNumber: 301198, Price: 97595, Year: 2018
+Producer: Dacia, Model: GLE, Color: Gray, RegistrationNumber: 989108, Price: 64305, Year: 2015
+Producer: Nissan, Model: A5, Color: Amber, RegistrationNumber: 956323, Price: 20574, Year: 2018
+Count of the cars: 20
+
+-------------------------------
+Cars OLD
+-------------------------------
+Producer: Suzuki, Model: Q5, Color: Black, RegistrationNumber: 423832, Price: 76324, Year: 2011
+Producer: Fiat, Model: GLS, Color: Eggplant, RegistrationNumber: 419356, Price: 63804, Year: 2012
+Producer: Smart, Model: AMG_GT_63_S_4Matic, Color: Mint, RegistrationNumber: 613833, Price: 95476, Year: 2014
+Producer: JAC, Model: A5, Color: Red, RegistrationNumber: 265301, Price: 90557, Year: 2012
+Producer: JAC, Model: GLA, Color: Orange, RegistrationNumber: 971377, Price: 35665, Year: 2012
+Producer: Audi, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro, Color: Maroon, RegistrationNumber: 161282, Price: 15607, Year: 2010
+Producer: Dongfeng, Model: A3, Color: Olive, RegistrationNumber: 580927, Price: 79396, Year: 2012
+Producer: Changhe, Model: RS3, Color: Pink, RegistrationNumber: 593312, Price: 94927, Year: 2014
+Producer: Ford, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_2, Color: Blue, RegistrationNumber: 573847, Price: 73349, Year: 2010
+Producer: Kia, Model: RS7, Color: Mauve, RegistrationNumber: 743903, Price: 74479, Year: 2014
+Producer: Lincoln, Model: SQ7, Color: Aqua, RegistrationNumber: 948876, Price: 56000, Year: 2013
+Producer: JAC, Model: RS6, Color: Coffee, RegistrationNumber: 990164, Price: 25317, Year: 2010
+Producer: Seat, Model: Q2, Color: Fuchsia, RegistrationNumber: 180608, Price: 68316, Year: 2011
+Producer: Toyota, Model: AMG_GT_4_Door_Coupe_Pro, Color: Green, RegistrationNumber: 107335, Price: 16767, Year: 2012
+Producer: Changan, Model: R8, Color: Beige, RegistrationNumber: 237381, Price: 22567, Year: 2011
+Producer: Hyundai, Model: CLA, Color: Crimson, RegistrationNumber: 832312, Price: 18366, Year: 2010
+Producer: Chery, Model: AMG_GT_C, Color: Cyan, RegistrationNumber: 663155, Price: 40609, Year: 2012
+Count of the cars: 17
+
+-------------------------------
+Cars VERY OLD
+-------------------------------
+Producer: Lifan, Model: A6, Color: Yellow, RegistrationNumber: 716327, Price: 97875, Year: 2004
+Producer: Peugeot, Model: G, Color: Green, RegistrationNumber: 531921, Price: 90462, Year: 2000
+Producer: Toyota, Model: R8, Color: Lilac, RegistrationNumber: 831058, Price: 86931, Year: 2003
+Producer: Toyota, Model: Q5, Color: Khaki, RegistrationNumber: 069906, Price: 81473, Year: 2003
+Producer: Citroen, Model: SL, Color: Mauve, RegistrationNumber: 240308, Price: 52193, Year: 2007
+Producer: Tesla, Model: AMG_GT_63_S_4Matic_Plus_Edition_1, Color: Yellow, RegistrationNumber: 477663, Price: 80357, Year: 2000
+Producer: Bugatti, Model: A8, Color: Orange, RegistrationNumber: 354966, Price: 60978, Year: 2000
+Producer: Dodge, Model: AMG_GT_R_Pro, Color: Apricot, RegistrationNumber: 747233, Price: 3135, Year: 2003
+Producer: Mercedes, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_3, Color: Mauve, RegistrationNumber: 769540, Price: 78010, Year: 2001
+Producer: Chrysler, Model: Q5, Color: Indigo, RegistrationNumber: 685984, Price: 21612, Year: 2008
+Producer: Smart, Model: A8, Color: Lilac, RegistrationNumber: 753458, Price: 92233, Year: 2009
+Producer: Renault, Model: TTRS, Color: Apricot, RegistrationNumber: 650231, Price: 84628, Year: 2002
+Producer: Porsche, Model: AMG_GT_63_S_4Matic_Plus_Edition_1, Color: Lilac, RegistrationNumber: 186765, Price: 23800, Year: 2009
+Producer: Chery, Model: CLA, Color: Indigo, RegistrationNumber: 644788, Price: 67312, Year: 2009
+Producer: Changan, Model: RS3, Color: Salmon, RegistrationNumber: 378108, Price: 8819, Year: 2003
+Producer: Ferrari, Model: A2, Color: Beige, RegistrationNumber: 325467, Price: 32382, Year: 2005
+Producer: BYD, Model: A5, Color: Orange, RegistrationNumber: 995315, Price: 12081, Year: 2006
+Producer: Haima, Model: SQ7, Color: Azure, RegistrationNumber: 296788, Price: 98794, Year: 2007
+Producer: Lexus, Model: GLE, Color: Mauve, RegistrationNumber: 567778, Price: 69635, Year: 2008
+Producer: Daewoo, Model: S, Color: Sienna, RegistrationNumber: 727654, Price: 63810, Year: 2006
+Producer: Toyota, Model: SLR, Color: Plum, RegistrationNumber: 483538, Price: 29321, Year: 2006
+Producer: Changan, Model: Q5, Color: Olive, RegistrationNumber: 896995, Price: 6604, Year: 2003
+Producer: Smart, Model: RS7, Color: Ginger, RegistrationNumber: 897649, Price: 26287, Year: 2001
+Producer: Peugeot, Model: A7, Color: Fuchsia, RegistrationNumber: 543557, Price: 97688, Year: 2004
+Producer: Dongfeng, Model: RS4, Color: Turquoise, RegistrationNumber: 870259, Price: 27471, Year: 2000
+Producer: Saab, Model: AMG_GT_4, Color: Coffee, RegistrationNumber: 657076, Price: 87457, Year: 2001
+Producer: Toyota, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_5, Color: Silver, RegistrationNumber: 249943, Price: 50466, Year: 2007
+Producer: Subaru, Model: Q3, Color: White, RegistrationNumber: 002533, Price: 38175, Year: 2002
+Producer: Changhe, Model: Q8, Color: Fuchsia, RegistrationNumber: 219600, Price: 10334, Year: 2006
+Producer: Lamborghini, Model: G, Color: Lilac, RegistrationNumber: 332684, Price: 59879, Year: 2009
+Producer: FAW, Model: S5, Color: White, RegistrationNumber: 992818, Price: 73209, Year: 2009
+Producer: Opel, Model: S3, Color: Yellow, RegistrationNumber: 543190, Price: 23447, Year: 2003
+Producer: Hyundai, Model: A4, Color: Orange, RegistrationNumber: 268195, Price: 76782, Year: 2007
+Producer: Tesla, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_7, Color: Coffee, RegistrationNumber: 147262, Price: 83253, Year: 2003
+Producer: Lamborghini, Model: S4, Color: Crimson, RegistrationNumber: 169500, Price: 95497, Year: 2001
+Producer: Zotye, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_5, Color: Green, RegistrationNumber: 111731, Price: 53570, Year: 2005
+Producer: Lexus, Model: AMG_GT_R, Color: Coral, RegistrationNumber: 880817, Price: 17062, Year: 2008
+Producer: Audi, Model: C, Color: Eggplant, RegistrationNumber: 154305, Price: 79530, Year: 2007
+Producer: Suzuki, Model: AMG_GT_63_S_4Matic_Plus_Edition_1_Pro_6, Color: Fuchsia, RegistrationNumber: 073160, Price: 42486, Year: 2007
+Count of the cars: 39
+
+-------------------------------
+Products with categoryId = 2
+-------------------------------
+ID: 846, Category ID: 2, Manufactury ID: 3, Name: Lou, Amount: 0, Price: 51324
+ID: 281, Category ID: 2, Manufactury ID: 1, Name: Vincenza, Amount: 0, Price: 96958
+ID: 79, Category ID: 2, Manufactury ID: 3, Name: Mervin, Amount: 0, Price: 78021
+ID: 176, Category ID: 2, Manufactury ID: 4, Name: Ronaldo, Amount: 1, Price: 35119
+ID: 134, Category ID: 2, Manufactury ID: 10, Name: Ansley, Amount: 1, Price: 53244
+ID: 929, Category ID: 2, Manufactury ID: 8, Name: Marc, Amount: 0, Price: 28509
+ID: 915, Category ID: 2, Manufactury ID: 9, Name: Kaya, Amount: 1, Price: 6179
+ID: 669, Category ID: 2, Manufactury ID: 4, Name: Dusty, Amount: 1, Price: 25086
+ID: 660, Category ID: 2, Manufactury ID: 8, Name: Rollin, Amount: 1, Price: 80162
+ID: 393, Category ID: 2, Manufactury ID: 5, Name: Hal, Amount: 0, Price: 17527
+ID: 762, Category ID: 2, Manufactury ID: 4, Name: Marvin, Amount: 1, Price: 34184
+ID: 427, Category ID: 2, Manufactury ID: 3, Name: Conner, Amount: 1, Price: 47203
+ID: 154, Category ID: 2, Manufactury ID: 2, Name: Jed, Amount: 1, Price: 86658
+ID: 834, Category ID: 2, Manufactury ID: 6, Name: Hershel, Amount: 0, Price: 17770
+ID: 997, Category ID: 2, Manufactury ID: 1, Name: Jaycee, Amount: 1, Price: 59047
+ID: 683, Category ID: 2, Manufactury ID: 4, Name: Rey, Amount: 1, Price: 26999
+ID: 274, Category ID: 2, Manufactury ID: 5, Name: Rogers, Amount: 0, Price: 8018
+ID: 33, Category ID: 2, Manufactury ID: 7, Name: Carlie, Amount: 0, Price: 50966
+ID: 32, Category ID: 2, Manufactury ID: 3, Name: Ocie, Amount: 1, Price: 72489
+ID: 254, Category ID: 2, Manufactury ID: 2, Name: Cheyanne, Amount: 0, Price: 27467
+ID: 815, Category ID: 2, Manufactury ID: 2, Name: Hortense, Amount: 0, Price: 70986
+ID: 296, Category ID: 2, Manufactury ID: 6, Name: Gardner, Amount: 0, Price: 89232
+Count of the products: 22
+
+-------------------------------
+Products with manufacturyId = 3
+-------------------------------
+ID: 98, Category ID: 1, Manufactury ID: 3, Name: Angelica, Amount: 0, Price: 85271
+ID: 846, Category ID: 2, Manufactury ID: 3, Name: Lou, Amount: 0, Price: 51324
+ID: 857, Category ID: 5, Manufactury ID: 3, Name: Laila, Amount: 0, Price: 8609
+ID: 79, Category ID: 2, Manufactury ID: 3, Name: Mervin, Amount: 0, Price: 78021
+ID: 779, Category ID: 1, Manufactury ID: 3, Name: Cecelia, Amount: 0, Price: 10183
+ID: 974, Category ID: 5, Manufactury ID: 3, Name: Karolann, Amount: 1, Price: 80611
+ID: 629, Category ID: 1, Manufactury ID: 3, Name: Zoila, Amount: 1, Price: 5054
+ID: 114, Category ID: 4, Manufactury ID: 3, Name: Alexandrea, Amount: 1, Price: 87517
+ID: 427, Category ID: 2, Manufactury ID: 3, Name: Conner, Amount: 1, Price: 47203
+ID: 810, Category ID: 4, Manufactury ID: 3, Name: Enola, Amount: 0, Price: 17114
+ID: 25, Category ID: 4, Manufactury ID: 3, Name: Vicenta, Amount: 0, Price: 43505
+ID: 32, Category ID: 2, Manufactury ID: 3, Name: Ocie, Amount: 1, Price: 72489
+Count of the products: 12
+
+-------------------------------
+Products with price < 10000
+-------------------------------
+ID: 857, Category ID: 5, Manufactury ID: 3, Name: Laila, Amount: 0, Price: 8609
+ID: 915, Category ID: 2, Manufactury ID: 9, Name: Kaya, Amount: 1, Price: 6179
+ID: 515, Category ID: 4, Manufactury ID: 8, Name: Rahul, Amount: 0, Price: 439
+ID: 645, Category ID: 3, Manufactury ID: 7, Name: Moriah, Amount: 0, Price: 7490
+ID: 235, Category ID: 1, Manufactury ID: 4, Name: Andre, Amount: 1, Price: 2560
+ID: 839, Category ID: 5, Manufactury ID: 4, Name: Hassie, Amount: 0, Price: 7456
+ID: 928, Category ID: 1, Manufactury ID: 6, Name: Giles, Amount: 1, Price: 7251
+ID: 629, Category ID: 1, Manufactury ID: 3, Name: Zoila, Amount: 1, Price: 5054
+ID: 716, Category ID: 4, Manufactury ID: 4, Name: Khalil, Amount: 0, Price: 9190
+ID: 588, Category ID: 5, Manufactury ID: 2, Name: Dangelo, Amount: 0, Price: 9379
+ID: 759, Category ID: 3, Manufactury ID: 1, Name: Helen, Amount: 0, Price: 6190
+ID: 274, Category ID: 2, Manufactury ID: 5, Name: Rogers, Amount: 0, Price: 8018
+ID: 690, Category ID: 1, Manufactury ID: 8, Name: Rhianna, Amount: 1, Price: 5124
+Count of the products: 13
+
+-------------------------------
+Products with amount > 0
+-------------------------------
+ID: 858, Category ID: 3, Manufactury ID: 6, Name: Walker, Amount: 1, Price: 56321
+ID: 419, Category ID: 5, Manufactury ID: 7, Name: Marina, Amount: 1, Price: 58882
+ID: 950, Category ID: 1, Manufactury ID: 4, Name: Stanley, Amount: 1, Price: 77939
+ID: 80, Category ID: 5, Manufactury ID: 7, Name: Consuelo, Amount: 1, Price: 45892
+ID: 346, Category ID: 5, Manufactury ID: 1, Name: Alexandria, Amount: 1, Price: 68052
+ID: 176, Category ID: 2, Manufactury ID: 4, Name: Ronaldo, Amount: 1, Price: 35119
+ID: 874, Category ID: 4, Manufactury ID: 8, Name: Monserrat, Amount: 1, Price: 38662
+ID: 437, Category ID: 1, Manufactury ID: 8, Name: Eduardo, Amount: 1, Price: 64141
+ID: 134, Category ID: 2, Manufactury ID: 10, Name: Ansley, Amount: 1, Price: 53244
+ID: 390, Category ID: 5, Manufactury ID: 9, Name: Abelardo, Amount: 1, Price: 77633
+ID: 154, Category ID: 5, Manufactury ID: 7, Name: Gene, Amount: 1, Price: 75228
+ID: 915, Category ID: 2, Manufactury ID: 9, Name: Kaya, Amount: 1, Price: 6179
+ID: 562, Category ID: 3, Manufactury ID: 6, Name: Reagan, Amount: 1, Price: 89320
+ID: 855, Category ID: 1, Manufactury ID: 10, Name: Marianna, Amount: 1, Price: 20239
+ID: 568, Category ID: 4, Manufactury ID: 1, Name: Deangelo, Amount: 1, Price: 95111
+ID: 669, Category ID: 2, Manufactury ID: 4, Name: Dusty, Amount: 1, Price: 25086
+ID: 582, Category ID: 5, Manufactury ID: 4, Name: Chelsie, Amount: 1, Price: 15711
+ID: 222, Category ID: 4, Manufactury ID: 6, Name: Rafael, Amount: 1, Price: 80385
+ID: 235, Category ID: 1, Manufactury ID: 4, Name: Andre, Amount: 1, Price: 2560
+ID: 309, Category ID: 3, Manufactury ID: 7, Name: Collin, Amount: 1, Price: 22518
+ID: 960, Category ID: 4, Manufactury ID: 6, Name: Gennaro, Amount: 1, Price: 50836
+ID: 660, Category ID: 2, Manufactury ID: 8, Name: Rollin, Amount: 1, Price: 80162
+ID: 179, Category ID: 3, Manufactury ID: 6, Name: Leila, Amount: 1, Price: 47739
+ID: 928, Category ID: 1, Manufactury ID: 6, Name: Giles, Amount: 1, Price: 7251
+ID: 681, Category ID: 3, Manufactury ID: 1, Name: Wade, Amount: 1, Price: 60043
+ID: 974, Category ID: 5, Manufactury ID: 3, Name: Karolann, Amount: 1, Price: 80611
+ID: 441, Category ID: 3, Manufactury ID: 4, Name: Meda, Amount: 1, Price: 53428
+ID: 13, Category ID: 3, Manufactury ID: 10, Name: Kristoffer, Amount: 1, Price: 89575
+ID: 549, Category ID: 5, Manufactury ID: 6, Name: Henry, Amount: 1, Price: 64401
+ID: 762, Category ID: 2, Manufactury ID: 4, Name: Marvin, Amount: 1, Price: 34184
+ID: 629, Category ID: 1, Manufactury ID: 3, Name: Zoila, Amount: 1, Price: 5054
+ID: 114, Category ID: 4, Manufactury ID: 3, Name: Alexandrea, Amount: 1, Price: 87517
+ID: 427, Category ID: 2, Manufactury ID: 3, Name: Conner, Amount: 1, Price: 47203
+ID: 890, Category ID: 3, Manufactury ID: 8, Name: Shayne, Amount: 1, Price: 66611
+ID: 154, Category ID: 2, Manufactury ID: 2, Name: Jed, Amount: 1, Price: 86658
+ID: 197, Category ID: 1, Manufactury ID: 7, Name: Sammy, Amount: 1, Price: 89527
+ID: 89, Category ID: 3, Manufactury ID: 6, Name: Cecilia, Amount: 1, Price: 86006
+ID: 997, Category ID: 2, Manufactury ID: 1, Name: Jaycee, Amount: 1, Price: 59047
+ID: 681, Category ID: 4, Manufactury ID: 8, Name: Hayden, Amount: 1, Price: 49372
+ID: 683, Category ID: 2, Manufactury ID: 4, Name: Rey, Amount: 1, Price: 26999
+ID: 32, Category ID: 2, Manufactury ID: 3, Name: Ocie, Amount: 1, Price: 72489
+ID: 127, Category ID: 3, Manufactury ID: 2, Name: Kara, Amount: 1, Price: 64871
+ID: 965, Category ID: 1, Manufactury ID: 8, Name: Gina, Amount: 1, Price: 15497
+ID: 690, Category ID: 1, Manufactury ID: 8, Name: Rhianna, Amount: 1, Price: 5124
+Count of the products: 44
+------------------------
+Average price at all: 46332,45
+------------------------
+------------------------
+Average price by category:
+------------------------
+CategoryId: 3, AveragePrice: 49116,62
+CategoryId: 5, AveragePrice: 50864,33
+CategoryId: 1, AveragePrice: 38688,95
+CategoryId: 2, AveragePrice: 48324,91
+CategoryId: 4, AveragePrice: 43868,60
+------------------------
+Average price by manufactury:
+------------------------
+ManufacturyId: 6, AveragePrice: 52088,25
+ManufacturyId: 4, AveragePrice: 40035,94
+ManufacturyId: 3, AveragePrice: 48908,42
+ManufacturyId: 1, AveragePrice: 58806,55
+ManufacturyId: 2, AveragePrice: 43960,63
+ManufacturyId: 7, AveragePrice: 45323,00
+ManufacturyId: 10, AveragePrice: 67069,00
+ManufacturyId: 8, AveragePrice: 42995,27
+ManufacturyId: 9, AveragePrice: 35777,71
+ManufacturyId: 5, AveragePrice: 19430,50
+------------------------
+Average price by category and manufactury:
+------------------------
+CategoryId: 3, ManufacturyId: 6, AveragePrice: 69846,50
+CategoryId: 5, ManufacturyId: 4, AveragePrice: 50240,00
+CategoryId: 1, ManufacturyId: 3, AveragePrice: 33502,67
+CategoryId: 2, ManufacturyId: 3, AveragePrice: 62259,25
+CategoryId: 3, ManufacturyId: 1, AveragePrice: 48847,25
+CategoryId: 3, ManufacturyId: 2, AveragePrice: 48597,00
+CategoryId: 5, ManufacturyId: 7, AveragePrice: 51321,60
+CategoryId: 5, ManufacturyId: 3, AveragePrice: 44610,00
+CategoryId: 2, ManufacturyId: 1, AveragePrice: 78002,50
+CategoryId: 1, ManufacturyId: 10, AveragePrice: 59371,67
+CategoryId: 1, ManufacturyId: 4, AveragePrice: 49306,25
+CategoryId: 5, ManufacturyId: 1, AveragePrice: 50091,75
+CategoryId: 2, ManufacturyId: 4, AveragePrice: 30347,00
+CategoryId: 4, ManufacturyId: 8, AveragePrice: 29491,00
+CategoryId: 1, ManufacturyId: 8, AveragePrice: 35022,50
+CategoryId: 2, ManufacturyId: 10, AveragePrice: 53244,00
+CategoryId: 5, ManufacturyId: 9, AveragePrice: 77633,00
+CategoryId: 2, ManufacturyId: 8, AveragePrice: 54335,50
+CategoryId: 4, ManufacturyId: 4, AveragePrice: 11579,00
+CategoryId: 1, ManufacturyId: 6, AveragePrice: 14349,67
+CategoryId: 2, ManufacturyId: 9, AveragePrice: 6179,00
+CategoryId: 3, ManufacturyId: 7, AveragePrice: 25694,67
+CategoryId: 4, ManufacturyId: 1, AveragePrice: 95111,00
+CategoryId: 4, ManufacturyId: 7, AveragePrice: 24368,00
+CategoryId: 5, ManufacturyId: 8, AveragePrice: 69103,00
+CategoryId: 4, ManufacturyId: 6, AveragePrice: 65610,50
+CategoryId: 4, ManufacturyId: 9, AveragePrice: 49585,00
+CategoryId: 1, ManufacturyId: 2, AveragePrice: 11609,00
+CategoryId: 2, ManufacturyId: 5, AveragePrice: 12772,50
+CategoryId: 3, ManufacturyId: 9, AveragePrice: 22316,00
+CategoryId: 3, ManufacturyId: 4, AveragePrice: 38718,00
+CategoryId: 4, ManufacturyId: 2, AveragePrice: 48392,00
+CategoryId: 3, ManufacturyId: 5, AveragePrice: 22662,00
+CategoryId: 3, ManufacturyId: 10, AveragePrice: 85527,50
+CategoryId: 5, ManufacturyId: 6, AveragePrice: 64401,00
+CategoryId: 5, ManufacturyId: 2, AveragePrice: 9379,00
+CategoryId: 4, ManufacturyId: 3, AveragePrice: 49378,67
+CategoryId: 3, ManufacturyId: 8, AveragePrice: 66611,00
+CategoryId: 2, ManufacturyId: 2, AveragePrice: 61703,67
+CategoryId: 1, ManufacturyId: 7, AveragePrice: 89527,00
+CategoryId: 2, ManufacturyId: 6, AveragePrice: 53501,00
+CategoryId: 1, ManufacturyId: 9, AveragePrice: 22830,00
+CategoryId: 2, ManufacturyId: 7, AveragePrice: 50966,00
+CategoryId: 1, ManufacturyId: 5, AveragePrice: 29515,00
