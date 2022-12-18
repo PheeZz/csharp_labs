@@ -1,3 +1,5 @@
+## `dotnet add package Faker.Net` for generating random data
+
 ## Все задания решать при помощи LINQ
 
 1. Создать
